@@ -1,0 +1,191 @@
+﻿  Asteroid.cpp
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Asteroid.cpp(21,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Asteroid.cpp(25,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  AsteroidManager.cpp
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(17,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(21,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(22,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(29,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(30,37): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(34,24): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(35,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(46,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(49,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(50,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(57,37): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(58,28): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(61,24): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(62,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(67,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\AsteroidManager.cpp(80,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+  Entity.cpp
+  Game.cpp
+  main.cpp
+  Player.cpp
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(12,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(12,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(20,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(40,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(44,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(49,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(69,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\Player.cpp(69,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  PowerupManager.cpp
+  UI.cpp
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\UI.cpp(21,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\UI.cpp(21,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\UI.cpp(28,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Asteroids\UI.cpp(28,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alSourcei
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alSourcei
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alGetSourcef
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alGetSourcef
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alGetSourcei
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alGetSourcei
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alSourcePlay
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alSourceStop
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alSourcePause
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alSourceQueueBuffers
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alSourceUnqueueBuffers
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alGenBuffers
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alDeleteBuffers
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alBufferData
+sfml-audio-s.lib(SoundStream.obj) : error LNK2001: unresolved external symbol __imp__alGetBufferi
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alGenSources
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alDeleteSources
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alSourcef
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alSource3f
+sfml-audio-s.lib(SoundSource.obj) : error LNK2001: unresolved external symbol __imp__alGetSource3f
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alIsExtensionPresent
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alGetEnumValue
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alListenerf
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alListener3f
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alListenerfv
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alcCreateContext
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alcMakeContextCurrent
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alcDestroyContext
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alcOpenDevice
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alcCloseDevice
+sfml-audio-s.lib(AudioDevice.obj) : error LNK2001: unresolved external symbol __imp__alcIsExtensionPresent
+C:\Users\callu\Downloads\Asteroids (1)\Asteroids (1)\Asteroids\Release\Asteroids.exe : fatal error LNK1120: 28 unresolved externals
